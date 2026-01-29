@@ -1,11 +1,11 @@
 # day2-python-conditional-statements
  Python Conditional Statements practice code
-#Conditional Statements
+# Conditional Statements
 # 1 if statements 
 # 2 else statements
 # 3 if elif else statements
 
-#if statements perform
+# if statements 
 age=18
 if(age>=18):
     print("you can vote")    # you can vote
@@ -26,9 +26,9 @@ elif(num<=0):
 else:
     print(num,"is zero number")
 
-#Create a User Input
+# Create a User Input
 
-#if statements perform
+# if statements perform
 age=int(input("Enter a age :"))
 if(age>=18):
     print("you can vote")
